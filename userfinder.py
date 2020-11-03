@@ -37,7 +37,7 @@ print(SetColor.OKGREEN + r"""
 | | | / __|/ _ \ '__| |_  | | '_ \ / _` |/ _ \ '__|
 | |_| \__ \  __/ |  |  _| | | | | | (_| |  __/ |
  \___/|___/\___|_|  |_|   |_|_| |_|\__,_|\___|_|
-""" + "\n" + SetColor.ENDC + "by SmarklyaYT\n")
+""" + "\n" + SetColor.ENDC + "by life(t.me/zhizapizdec)\n")
 
 
 def check_username(user):
